@@ -10,7 +10,7 @@
 ## Contributor
 
 Thanks to people who've been working for this project
-- :star_struck: jvibesco
+- 😑: jvibesco
   - [Instagram](https://www.instagram.com/jvibesco)
 
 ## Start This Project On Your Own Environment
